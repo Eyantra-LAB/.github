@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of **e-Yantra**, an initiative by IIT Bombay, funded by the Ministry of Education, Government of India. This platform serves as a hub for robotics education, innovation, and collaboration. Explore resources, project repositories, and tools to dive into the exciting world of robotics and embedded systems.
 
----
+
 
 ## 🚀 About e-Yantra
 
@@ -12,4 +12,11 @@ Welcome to the official GitHub repository of **e-Yantra**, an initiative by IIT 
 - **Bridge the Skill Gap**: Empower students with industry-relevant skills in embedded systems and robotics.
 - **Build a Robotics Ecosystem**: Set up labs and provide resources for sustainable learning.
 
-This e-Yantra Lab is located at **SRM Kattankulathur Campus (SRM KTR)**.
+This e-Yantra Lab is located at **SRM Kattankulathur Campus (SRM KTR)**
+
+## 🛠️ Tools & Technologies
+
+- **Hardware Platforms**: Firebird V, Arduino, Raspberry Pi
+- **Programming Languages**: Python, C/C++, MATLAB
+- **Frameworks**: OpenCV, ROS, TensorFlow
+- **Embedded Systems**: AVR, ARM Cortex
