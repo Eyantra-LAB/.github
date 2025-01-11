@@ -20,3 +20,15 @@ This e-Yantra Lab is located at **SRM Kattankulathur Campus (SRM KTR)**
 - **Programming Languages**: Python, C/C++, MATLAB
 - **Frameworks**: OpenCV, ROS, TensorFlow
 - **Embedded Systems**: AVR, ARM Cortex
+
+
+## 🤝 How to Contribute
+
+We welcome contributions from the community! Here's how you can get involved:
+
+1. **Fork this repository**: Click on the `Fork` button at the top.
+2. **Clone the repository**: Use `git clone <repository-url>`.
+3. **Create a branch**: `git checkout -b feature-branch-name`.
+4. **Commit your changes**: `git commit -m "Add new feature"`.
+5. **Push the branch**: `git push origin feature-branch-name`.
+6. **Open a Pull Request**: Submit your changes for review.
